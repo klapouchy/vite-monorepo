@@ -1,0 +1,7 @@
+.DS_*
+*.log
+logs
+
+/build
+
+node_modules
